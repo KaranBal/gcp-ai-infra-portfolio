@@ -1,0 +1,10 @@
+# Virtual Environments
+.venv/
+pallas-kernels/.venv/
+
+# Python caching
+**/__pycache__/
+**/*.pyc
+
+# System files
+.DS_Store
